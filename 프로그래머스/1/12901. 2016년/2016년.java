@@ -12,6 +12,6 @@ class Solution {
 
         answer = day[date % 7];
         
-        return answer;
+        return answer; 
     }
 }
